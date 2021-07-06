@@ -1,6 +1,8 @@
 """
+
 Train on images split into directories. This assumes we've split
 our videos into frames and moved them to their respective folders.
+Give it time, stay motivated,work hard.
 
 Based on:
 https://keras.io/preprocessing/image/
